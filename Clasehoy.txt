@@ -1,0 +1,5 @@
+En el día de hoy los temas tratados son: 
+Taller - Evaluacion
+El control de versiones, también conocido como 
+"control de código fuente", es la práctica de rastrear y 
+gestionar los cambios en el código de software
