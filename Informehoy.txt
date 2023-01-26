@@ -3,3 +3,6 @@ Taller - Evaluacion
 El control de versiones, también conocido como 
 "control de código fuente", es la práctica de rastrear y 
 gestionar los cambios en el código de software
+ramas git branch
+ Como ignorar archivos para no ser comprometidos ".ignore"
+en el área de trabajo. 
